@@ -1,0 +1,10 @@
+[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+[TestNG] Running:
+  E:\20160328\1426\test.xml
+
+
+===============================================
+Demo
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
