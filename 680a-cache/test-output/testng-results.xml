@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo" duration-ms="173604" started-at="2016-03-28T23:14:59Z" finished-at="2016-03-28T23:17:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="173604" started-at="2016-03-28T23:14:59Z" finished-at="2016-03-28T23:17:53Z">
+      <class name="com.ahabana.Main">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.ahabana.Main@17246de]" name="test" duration-ms="173527" started-at="2016-03-28T16:14:59Z" finished-at="2016-03-28T16:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.ahabana.Main -->
+    </test> <!-- Test -->
+  </suite> <!-- Demo -->
+</testng-results>
